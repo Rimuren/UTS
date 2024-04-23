@@ -1,1 +1,38 @@
-
+header{
+    background-color: #666;
+    padding: 20px;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+.Button{
+    padding: 15px 15px;
+    letter-spacing: 20px;
+    background-color: bisque;
+    display: inline;
+    border: 1.5px solid black;
+}
+.navbar{
+    margin: 15px;
+    padding: 15px;
+    text-align: center;
+    justify-content: center;
+}
+.content{
+    background-color: bisque;
+    color: black;
+    border: 1.5px solid black;
+    margin: 15px;
+    padding: 20px;
+    display:flex ;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+footer {
+    background-color: #777;
+    padding: 20px;
+    text-align: center;
+    color: white;
+  }
+  
